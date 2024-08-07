@@ -12,6 +12,14 @@ ContactEase Solutions aims to simplify contact management for its users by devel
 ## Requirements
 
 - Python 3.x
+- colorama
+- tabulate
+
+## Installation
+
+To install the necessary libraries, you can use `pip`. Run the following commands in the terminal:
+- pip install colorama
+- pip install tabulate
 
 ## Features
 
